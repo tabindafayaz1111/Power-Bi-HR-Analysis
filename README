@@ -1,1 +1,38 @@
+# HR Analytics Dashboard
 
+## Project Overview
+This project involves creating an HR Analytics Dashboard using Power BI to analyze employee attrition and various HR metrics.
+
+## Dashboard Description
+The HR Analytics Dashboard provides insights into:
+* Employee count and attrition statistics
+* Attrition rate, average age, average salary, and average years at company
+* Attrition analysis by:
+  + Education (Technical, Life Sciences, Medical)
+  + Age groups
+  + Salary slab
+  + Job role
+  + Years at company
+
+## Key Visualizations
+1. **Attrition by Education**: Pie chart showing attrition distribution among education categories.
+2. **Attrition by Age**: Bar graph analyzing attrition across different age groups.
+3. **Attrition by Salary Slab**: Bar chart showing attrition based on salary ranges.
+4. **Attrition by Job Role**: Bar graph depicting attrition among various job roles.
+5. **Attrition by Years at Company**: Line graph showing attrition trend over years at the company.
+
+## Tools & Technologies
+* **Power BI**: For data visualization and dashboard creation.
+* **Data Analysis**: For HR metrics and attrition analysis.
+
+## How to Use
+1. Open the Power BI file (.pbix) in Power BI Desktop.
+2. Interact with the dashboard visualizations to analyze HR metrics.
+3. Use filters (e.g., Department: Human Resources, Research & Development, Sales) for detailed analysis.
+
+## Files in the Repository
+* `hr analysis dashboard.pbix`: Power BI dashboard file.
+* `README.md`: Project description and instructions.
+
+## Author
+TABINDA FAYAZ LONE
